@@ -18,5 +18,5 @@ You can download the compiled executable engine directly from our release archit
 OpenMS operates purely on spatial text formatting and block logic without standard strict colon constraints or semicolon statements. 
 
 ### Pure Script Code Example
-```openms
+
 <img width="1238" height="593" alt="Screenshot 2026-05-30 064347" src="https://github.com/user-attachments/assets/b99b0644-d2cc-4dd8-9d4c-63fbcb1593d7" />
